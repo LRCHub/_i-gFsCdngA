@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ネリネ",
+  "base_artist": "TOMOO",
+  "createdAt": "2026-03-27T02:34:58.911666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ネリネ",
+      "artist": "pup",
+      "has_synced": true,
+      "path": "select/01_ネリネ_pup.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ネリネ",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/02_ネリネ_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ネリネ",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/03_ネリネ_TOMOO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネリネ",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_ネリネ_TOMOO.txt"
+    }
+  ]
+}
